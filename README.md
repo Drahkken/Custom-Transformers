@@ -12,22 +12,25 @@
     </tr>
     <tr>
       <td>Base figure</td>
-      <td>HFTD Bludgeon</td>
+      <td>Galaxy Force Optimus Prime</td>
     </tr>
     <tr>
-      <td>Head</td>
-      <td>2000 MOC skeletor</td>
+      <td>Cannon</td>
+      <td>Megatron Cannon from Shapeways</td>
     </tr>
     <tr>
-      <td>Helmet</td>
-      <td>Silver Samurai</td>
+      <td>Legs</td>
+      <td>Augmented with legs from another Galaxy Force Optimus Prime</td>
     </tr>
     <tr>
-      <td>Guns</td>
-      <td>DNA tank megatron upgrade kit</td>
+      <td>Hand</td>
+      <td>Giant Hand from Shapeways</td>
       <tr>
-        <td>Sword</td>
-        <td>Upgrade from Shapeways</td>
+        <td>Hammer/td>
+        <td>Custom made</td>
+     <tr>
+       <td>Back</td>
+       <td>Augmented with lego pieces, custom</td>
   </table>
   
  
