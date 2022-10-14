@@ -30,12 +30,10 @@
         <td>Upgrade from Shapeways</td>
   </table>
   
-  Base figure: made from HFTD Bludgeon
-  Head: 2000 MOC skeletor
-  Helmet: silver samurai 
-  Accessories: DNA tank megatron upgrade kit
+ 
   
-<img src="bludgeon1.png" alt="Bludgeon" width="500" height="333">
+![bludgeon1](https://user-images.githubusercontent.com/115745680/195802906-f15554ab-f629-44bb-b6c7-10fc6d27f85a.png)
+
 
 </body>
 </html>
