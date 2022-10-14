@@ -37,10 +37,12 @@
       <td>Lego pieces, custom</td>
   </table>
   
- ![Nemesis prime1](https://user-images.githubusercontent.com/115745680/195807796-66415775-3e72-4935-aa6c-1378862dc7ab.jpg)
 
  
-![Nemesis prime2](https://user-images.githubusercontent.com/115745680/195807811-8e6ac184-3c3c-46f9-bc4b-68f4b91859e9.jpg)
+<img src="https://github.com/PaulPoon1007/Custom-Transformers/blob/main/Nemesis%20prime1.jpg" alt="Nemesis Prime about to fire his FUsion Cannon">
+
+<img src="https://github.com/PaulPoon1007/Custom-Transformers/blob/main/Nemesis%20prime2.jpg">
+
 
 
 </body>
